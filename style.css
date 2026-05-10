@@ -1,8 +1,9 @@
-body{
-    background-color: rgb(158, 76, 0);
-    color: #ffc400f5;
 
-
-
-
+.design-caption {
+    margin-top: 20px;
+    font-size: 16px;
+    color: #58a6ff;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 1px;
 }
